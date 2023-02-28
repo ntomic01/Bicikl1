@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public abstract class Bicikl  {
 
     public int zupcanik;
